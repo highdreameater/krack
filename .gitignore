@@ -1,0 +1,11 @@
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.ckpt
+best_test_model/
+checkpoints/
+models/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/

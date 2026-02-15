@@ -19,9 +19,17 @@ Develop robust segmentation models capable of identifying 10 distinct terrain cl
 - **9**: Sky
 
 ---
+## usage for evaluating 
+python evaulator.py \
+  --model_path ./best_test_model \
+  --test_img_dir /path/to/test/images
+  --test_mask_dir /path/to/test/masks
 
-## Repository Structure
+download model from: https://drive.google.com/drive/folders/1yaO80b_bPNOqQTjLnXR700ZpM0dnkI5S?usp=sharing
 
+## Gdrive Structure:
+
+GOOGLE DRIVE LINK :https://drive.google.com/drive/folders/1mmmQU7j1eTDif4PtsV43r-ghVKPrGlET?usp=drive_link
 ```
 Krackhack-2026/
 ├── README.md                                      # Project documentation

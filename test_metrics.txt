@@ -1,0 +1,17 @@
+TRAINING - TEST METRICS
+============================================================
+
+Best Test mIoU: 0.6596
+
+Per-Epoch History:
+----------------------------------------
+Epoch 1: mIoU=0.6137, Acc=0.7901
+Epoch 2: mIoU=0.6413, Acc=0.8094
+Epoch 3: mIoU=0.6503, Acc=0.8148
+Epoch 4: mIoU=0.6531, Acc=0.8175
+Epoch 5: mIoU=0.6562, Acc=0.8186
+Epoch 6: mIoU=0.6558, Acc=0.8201
+Epoch 7: mIoU=0.6593, Acc=0.8204
+Epoch 8: mIoU=0.6596, Acc=0.8211
+Epoch 9: mIoU=0.6594, Acc=0.8213
+Epoch 10: mIoU=0.6596, Acc=0.8213
